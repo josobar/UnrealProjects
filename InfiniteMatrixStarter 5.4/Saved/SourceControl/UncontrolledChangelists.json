@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WB_HealthBar.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/WB_Score.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Health.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hurt.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Materials/MI_Hurt_Inst.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/Blueprints/BP_Post.uasset",
+				"C:/Users/jason/Documents/Unreal Projects/InfiniteMatrixStarter 5.4/Content/InfiniteMatrix/UI/Health_Bar.uasset"
+			]
+		}
+	]
+}
